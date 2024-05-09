@@ -1,0 +1,11 @@
+.item-carousel {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .item-card {
+    width: calc(33.33% - 20px); /* Ajuste conforme necessário */
+    margin-bottom: 20px;
+  }
+  
